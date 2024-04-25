@@ -68,7 +68,7 @@ Encoder-Decoder Architecture: The model architecture adopts an encoder-decoder s
 the encoder processes input signatures and extracts high-level features, while the decoder reconstructs 
 signatures from the learned features.
 Attention Mechanism: To focus on relevant parts of the signature during verification, an attention 
-mechanism is integrated into the model. This mechanism enhances the model's ability to capture finegrained details and distinguish genuine signatures from forgeries.
+mechanism is integrated into the model. This mechanism enhances the model's ability to capture finegrained details and distinguish genuine signatures from forgeries.
 Transfer Learning: Transfer learning techniques may be employed, utilizing pre-trained models or 
 embeddings to leverage existing knowledge and improve model performance.
 Training Process:
